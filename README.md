@@ -1,5 +1,4 @@
-# rental-app-backend
-Java Spring Boot code for Rental Application
+Car Rental Application
 
 To run this code, the complete source code needs to be downloaded, and while running the application, the MainApplication class needs to be selected and run. 
 
