@@ -173,23 +173,13 @@ I used React, a popular JavaScript library for building user interfaces, to crea
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
 GitHub Reference Links:
-●	Frontend: https://github.com/pc3457/rental-ui
-●	Backend: https://github.com/pc3457/rental-app-backend
-The process for setting up the code and running the application is provided in the readme file.
-The code for the machine learning model is also attached in the zip file.
+
+- Frontend: https://github.com/pc3457/rental-ui
+
+-Backend: https://github.com/pc3457/rental-app-backend
+
+
 
 
 
